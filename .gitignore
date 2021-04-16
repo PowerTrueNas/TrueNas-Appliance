@@ -1,5 +1,4 @@
 # Object file
-*.o
+*.iso
+*.ova
 
-# Ada Library Information
-*.ali
