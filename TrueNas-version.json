@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "description": "TrueNas Appliance-12U3",
+  "vm_name": "TrueNas-Appliance-12U3",
+  "iso_checksum": "de5c9a6bbdd1f77bca7eac8b22974394ec3ccf26477a9d465dda40bb5809c0a0",
+  "iso_url": "https://download.freenas.org/12.0/STABLE/U3/x64/TrueNAS-12.0-U3.iso",
+  "numvcpus": "4",
+  "ramsize": "8192",
+  "guest_username": "root",
+  "guest_password": "freenas"
+}

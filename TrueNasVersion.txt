@@ -1,0 +1,8 @@
+Description;URL;SHA256
+TrueNas-12U3;https://download.freenas.org/12.0/STABLE/U3/x64/TrueNAS-12.0-U3.iso;de5c9a6bbdd1f77bca7eac8b22974394ec3ccf26477a9d465dda40bb5809c0a0
+TrueNas-12U2-1;https://download.freenas.org/12.0/STABLE/U2.1/x64/TrueNAS-12.0-U2.1.iso;cfc48d9b2a333b2ae6b6341ed407adf697ff674d40e24343ee01470fb479bb67
+TrueNas-12U2;https://download.freenas.org/12.0/STABLE/U2/x64/TrueNAS-12.0-U2.iso;2592eb9d24f22edf5607af4506a2fe28462f061000ee635f8dc2a81394530093
+TrueNaS-12U1-1;https://download.freenas.org/12.0/STABLE/U1.1/x64/TrueNAS-12.0-U1.1.iso;b717a9453d86b8ed939255fac93755d76180181345445702368486c0f9fb5283
+TrueNas-12U1;https://download.freenas.org/12.0/STABLE/U1/x64/TrueNAS-12.0-U1.iso;cdb9d95b7f6154e58978fcbb1a1749b80af58c999a8dfd20d32ccf3c2fbb9d4a
+TrueNaS-12GA;https://download.freenas.org/12.0/STABLE/RELEASE/x64/TrueNAS-12.0-RELEASE.iso;68c9a49d8072afc58475c9a2ece2b04beac0cabe40d970fa96da1c0833aa1935
+
