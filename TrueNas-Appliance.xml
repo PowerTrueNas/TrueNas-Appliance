@@ -33,15 +33,15 @@
     <Info>List of profiles</Info>
     <Configuration ovf:default="true" ovf:id="1CPU-4GB">
       <Label ovf:msgid="Small.label">Small</Label>
-      <Description ovf:msgid="Small.description">Minimal hardware profile - 1 vCPU, 4GB RAM TrueNas Applicance with 7 disks (60GB)</Description>
+      <Description ovf:msgid="Small.description">Minimal hardware profile - 1 vCPU, 4GB RAM TrueNas Applicance with 8 disks (60GB)</Description>
     </Configuration>
     <Configuration ovf:id="4CPU-8GB">
       <Label ovf:msgid="Medium.label">Medium</Label>
-      <Description ovf:msgid="Medium.description">Medium hardware profile - 4 vCPUs, 8 GB RAM TrueNas Applicance with 7 disks (60GB)</Description>
+      <Description ovf:msgid="Medium.description">Medium hardware profile - 4 vCPUs, 8 GB RAM TrueNas Applicance with 8 disks (60GB)</Description>
     </Configuration>
     <Configuration ovf:id="4CPU-16GB">
       <Label ovf:msgid="Large.label">Large</Label>
-      <Description ovf:msgid="Large.description">Large hardware profile - 4 vCPUs, 16 GB RAM TrueNas Applicance with 7 disks (60GB)</Description>
+      <Description ovf:msgid="Large.description">Large hardware profile - 4 vCPUs, 16 GB RAM TrueNas Applicance with 8 disks (60GB)</Description>
     </Configuration>
   </DeploymentOptionSection>
   <VirtualSystem ovf:id="TrueNas-Appliance">
